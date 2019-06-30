@@ -1,3 +1,4 @@
+# Simulation de l'évolution d'une population de poisson clown
 Ce projet est un simulateur destiné à l'expérimentation in silico pour
 un problème d'écologie numérique. 
 
